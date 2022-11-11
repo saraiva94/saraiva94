@@ -5,7 +5,7 @@ Hi there 👋
 - 👯 I’m looking to collaborate on programming processes in general
 - 🤔 I’m looking for help with my gaining experience in the programming area
 - 💬 Ask me about my culture
-- 📫 How to reach me: +5521969381944 / swami_gs@live.com
+- 📫 How to reach me: swami_gs@live.com / sir.saraiva94@gmail.com
 - 😄 Pronouns: He / His / Ele / Dele
 - ⚡ Fun fact: My name
 <div align="center">
