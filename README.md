@@ -7,7 +7,7 @@ Hi there 👋
 - 💬 Ask me about my culture
 - 📫 How to reach me: swami_gs@live.com / sir.saraiva94@gmail.com
 - 😄 Pronouns: He / His / Ele / Dele
-- ⚡ Fun fact: My name
+- ⚡ Fun fact: My name 😄
 <div align="center">
   <a href="https://github.com/saraiva94">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=saraiva94&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
