@@ -1,7 +1,7 @@
 Hi there 👋
 
 - 🔭 I’m currently working on Food delivery
-- 🌱 I’m currently Python / MySQL / Js / Linux ...
+- 🌱 I’m currently Frontend mode
 - 👯 I’m looking to collaborate on programming processes in general
 - 🤔 I’m looking for help with my gaining experience in the programming area
 - 💬 Ask me about my culture
