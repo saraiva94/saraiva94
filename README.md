@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🔭 I’m currently working on Food delivery
+- 🔭 I study every day while i work as a delivery driver
 - 🌱 I’m currently Frontend mode
 - 👯 I’m looking to collaborate on programming processes in general
 - 🤔 I’m looking for help with my gaining experience in the programming area
