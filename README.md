@@ -22,10 +22,10 @@ Hi there 👋
   <img align="center" alt="Git" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Eslint" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg">
   <img align="center" alt="NodeJS" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Premiere" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 </div>
 
-            <img src="" />
           
 ##
 
