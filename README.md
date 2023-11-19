@@ -14,11 +14,11 @@ Hi there 👋
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraiva94&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
     
-<div style="display: inline-block; text-align: center;" align="center"><br>
+<div style="display: inline-block" align="center"><br>
   <img align="center" alt="VSCode" height="58" width="58" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="HTML" height="58" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="58" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JQuery" height="58" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
+  <img align="center" alt="JQuery" height="58" width="58" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
   <img align="center" alt="NodeJS" height="58" width="58" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Js" height="58" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript" height="58" width="58" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
@@ -29,8 +29,7 @@ Hi there 👋
   <img align="center" alt="Eslint" height="58" width="58" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg">
   <img align="center" alt="Premiere" height="55" width="58" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
   <img align="center" alt="Linux" height="58" width="58" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
-
-          
+      
 </div>
 
           
