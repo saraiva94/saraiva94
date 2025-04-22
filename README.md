@@ -6,7 +6,6 @@ Hi there 👋
 - 🤔 I’m looking for help with my gaining experience in the programming area
 - 💬 Ask me about my culture
 - 📫 How to reach me: swami_gs@live.com / sir.saraiva94@gmail.com
-- 😄 Pronouns: He / His / Ele / Dele
 - ⚡ Fun fact: My name 😄
 <div align="center">
   <a href="https://github.com/saraiva94">
