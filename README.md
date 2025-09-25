@@ -13,6 +13,7 @@ Hi there 👋
   <a href = "https://outlook.live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href = "https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
+</br>
 <div align="center">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraiva94&layout=compact&langs_count=8&theme=blueberry&hide=Jupyter%20Notebook&size_weight=0&count_weight=1&card_width=420&cache_seconds=21600" height="165"/>
   <img alt="Activity" src="https://github-readme-stats.vercel.app/api?username=saraiva94&theme=blueberry&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues,prs,contribs&rank_icon=github&line_height=24&card_width=420&&cache_seconds=21600" height="165"/>
