@@ -8,16 +8,9 @@ Hi there 👋
 - 📫 How to reach me: swami_gs@live.com / sir.saraiva94@gmail.com
 <div align="center">
   <a href="https://github.com/saraiva94">  
-  <table align="center" width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="25%" valign="top">
-      <img
-        alt="Activity" src="https://github-readme-stats.vercel.app/api?username=saraiva94&theme=blueberry&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues,prs,contribs&rank_icon=github&hide_border=true&line_height=24&custom_title=Swamy%20Saraiva%E2%80%99s%20Activity&cache_seconds=21600" width="100%" height="165"/>
-    </td>
-    <td width="75%" valign="top">
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraiva94&layout=compact&langs_count=8&theme=blueberry&hide=Jupyter%20Notebook&size_weight=0&count_weight=1&hide_border=true&cache_seconds=21600" width="100%" height="165"/>
-    </td>
-  </tr>
+  <table align="center" width="100%" cellspacing="0" cellpadding="0"> 
+  <img alt="Activity" src="https://github-readme-stats.vercel.app/api?username=saraiva94&theme=blueberry&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues,prs,contribs&rank_icon=github&hide_border=true&line_height=24&custom_title=Swamy%20Saraiva%E2%80%99s%20Activity&cache_seconds=21600" width="100%" height="165"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraiva94&layout=compact&langs_count=8&theme=blueberry&hide=Jupyter%20Notebook&size_weight=0&count_weight=1&hide_border=true&cache_seconds=21600" width="100%" height="165"/>
   </table>
   <div align="center">
     <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=saraiva94&theme=react-dark&hide_border=true&area=true" width="100%"/>
