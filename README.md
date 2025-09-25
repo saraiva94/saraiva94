@@ -7,15 +7,22 @@ Hi there 👋
 - 💬 Ask me about my culture
 - 📫 How to reach me: swami_gs@live.com / sir.saraiva94@gmail.com
 <div align="center">
-  <a href="https://github.com/saraiva94">
-  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=saraiva94&theme=blueberry&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues,prs,contribs&rank_icon=percentile&custom_title=Swamy%20Saraiva%E2%80%99s%20Activity&cache_seconds=21600"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraiva94&layout=compact&langs_count=8&theme=blueberry&hide=Jupyter%20Notebook&size_weight=0&count_weight=1&cache_seconds=21600"/>
+  <a href="https://github.com/saraiva94">  
+  <table align="center">
+    <tr>
+      <td align="center" valign="top">
+        <img alt="Activity" src="https://github-readme-stats.vercel.app/api?username=saraiva94&theme=blueberry&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues,prs,contribs&rank_icon=github&line_height=24&card_width=420&custom_title=Swamy%20Saraiva%E2%80%99s%20Activity&cache_seconds=21600" height="165" />
+        <br/>
+        <img alt="Percentile badge"src="https://img.shields.io/badge/Top%2090.9%25-blue?style=flat-square"/>
+      </td>
+      <td valign="top">
+        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraiva94&layout=compact&langs_count=8&theme=blueberry&hide=Jupyter%20Notebook&size_weight=0&count_weight=1&card_width=420&cache_seconds=21600" height="165"/>
+      </td>
+    </tr>
+  </table>
+
   <div align="center">
-    <img height="180em" src="https://streak-stats.demolab.com?user=saraiva94&theme=blueberry&hide_border=false&date_format=j%20M%5B%20Y%5D"/>
-  </div>
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=saraiva94&theme=react-dark&hide_border=false&area=true"/>
+    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=saraiva94&theme=react-dark&hide_border=false&area=true" width="100%"/>
   </div>
 </div>
     
