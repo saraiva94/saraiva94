@@ -9,8 +9,9 @@ Hi there 👋
 <div align="center">
   <a href="https://github.com/saraiva94">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=saraiva94&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img width="895" height="636" alt="image" src="https://github.com/user-attachments/assets/59cbcab8-edfd-436b-83c1-d283bc1ad2ea" />  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraiva94 &layout=compact &langs_count=7 &theme=blueberry &hide=Jupyter%20Notebook &size_weight=0 &count_weight=1" />
 </div>
+    
     
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
