@@ -15,7 +15,20 @@ Hi there 👋
 </div>
 </br>
 <div align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraiva94&layout=compact&langs_count=8&theme=blueberry&hide=Jupyter%20Notebook&size_weight=0&count_weight=1&&card_width=800cache_seconds=21600" />
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img alt="TypeScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Next.js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img alt="Node.js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+  <img alt="ESLint" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
+  <img alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</div>
   <br>
   <img alt="Activity" src="https://github-readme-stats.vercel.app/api?username=saraiva94&theme=blueberry&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues,prs,contribs&rank_icon=github&line_height=24&cache_seconds=21600" />
 </div>
