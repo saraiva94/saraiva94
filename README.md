@@ -11,7 +11,8 @@ Hi there 👋
   <table align="center">
     <tr>
       <td align="center" valign="top">
-        <img alt="Activity" src="https://github-readme-stats.vercel.app/api?username=saraiva94&theme=blueberry&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues,prs,contribs&rank_icon=github&line_height=24&card_width=420&custom_title=Swamy%20Saraiva%E2%80%99s%20Activity&cache_seconds=21600" height="165" />
+        <img alt="Activity" src="https://github-readme-stats.vercel.app/api?username=saraiva94&theme=blueberry&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues,prs,contribs&rank_icon=github&line_height=24&card_width=420&custom_title=Swamy%20Saraiva%E2%80%99s%20Activity&cache_seconds=21600" height="165"/>
+        <img alt="Percentile badge" src="https://img.shields.io/badge/Top%2090.9%25-blue?style=flat-square"/>
       </td>
       <td valign="top">
         <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraiva94&layout=compact&langs_count=8&theme=blueberry&hide=Jupyter%20Notebook&size_weight=0&count_weight=1&card_width=420&cache_seconds=21600" height="165"/>
