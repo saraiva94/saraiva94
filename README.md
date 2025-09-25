@@ -8,8 +8,7 @@ Hi there 👋
 - 📫 How to reach me: swami_gs@live.com / sir.saraiva94@gmail.com
 <div align="center">
   <a href="https://github.com/saraiva94">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=saraiva94&theme=blueberry&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues&rank_icon=github&custom_title=Swamy%20Saraiva%E2%80%99s%20Activity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=21600"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraiva94&layout=compact&langs_count=7&theme=blueberry&hide=Jupyter%20Notebook&size_weight=0&count_weight=1"/>
+  
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=saraiva94&theme=blueberry&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues,prs,contribs&rank_icon=percentile&custom_title=Swamy%20Saraiva%E2%80%99s%20Activity&cache_seconds=21600"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraiva94&layout=compact&langs_count=8&theme=blueberry&hide=Jupyter%20Notebook&size_weight=0&count_weight=1&cache_seconds=21600"/>
   <div align="center">
