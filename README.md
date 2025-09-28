@@ -15,7 +15,7 @@ Hi there 👋
 </div>
 </br>
 <div align="center">
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraiva94&layout=compact&langs_count=8&theme=blueberry&hide=Jupyter%20Notebook&size_weight=0&count_weight=1&rank_icon=github&line_height=24&card_width=400&cache_seconds=21600"/>
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraiva94&layout=compact&langs_count=8&theme=blueberry&hide=Jupyter%20Notebook&size_weight=0&count_weight=1&rank_icon=github&line_height=24&card_width=800&cache_seconds=21600"/>
 </div>
     
     
