@@ -1,32 +1,99 @@
-Hi there 👋
+# Swamiy Saraiva · Desenvolvedor Full-Stack JavaScript
 
-- 🔭 I study every day while i work as a delivery driver
-- 🌱 I’m currently Fullstack mode
-- 👯 I’m looking to collaborate on programming processes in general
-- 🤔 I’m looking for help with my gaining experience in the programming area
-- 💬 Ask me about my culture
-- 📫 How to reach me:
+> Construo produtos digitais completos — do banco de dados à interface do usuário — com React, React Native, TypeScript e Supabase.
+
+---
+
+## Sobre
+
+Desenvolvedor Full-Stack baseado no Rio de Janeiro com foco em JavaScript/TypeScript.  
+Nos últimos dois anos entreguei produtos comerciais publicados: app na Google Play Store, plataforma de live streaming com WebRTC, marketplace P2P com escrow financeiro e sistema de gestão audiovisual com CMS dinâmico e i18n automático.
+
+Trabalho com Supabase como backend completo — PostgreSQL, Realtime, Edge Functions e Storage — sem servidor Node dedicado.
+
+---
+
+## Portfólio e Contato
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/swami-saraiva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://mail.google.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://wa.me/5521969381944"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href = "https://outlook.live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href = "https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+
+[![Portfólio](https://img.shields.io/badge/devmaker.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devmaker.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swami-saraiva/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521969381944)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=swami_gs@live.com)
+
 </div>
-</br>      
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Electron" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-  <img align="center" alt="NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Eslint" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
-  <img align="center" alt="Eslint" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg">
-  <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">      
+
+---
+
+## Projetos em destaque
+
+| Projeto | Stack | Status |
+|---------|-------|--------|
+| **Alarme Solar** — Alarme baseado no nascer do sol com pedômetro via acelerômetro | React Native · TypeScript · Supabase | ✅ Play Store |
+| **Live Streaming** — Plataforma com WebRTC, chat em tempo real e sistema de créditos | React · LiveKit · Supabase | ✅ Produção |
+| **Marketplace P2P** — Escrow financeiro, order book, tracking GPS e 3 gateways de pagamento | React · TypeScript · Supabase · Mapbox · Stripe | ✅ Produção |
+| **Gestão Audiovisual** — CMS dinâmico com i18n automático PT/EN/ES e sincronização em tempo real | React · TypeScript · Supabase | ✅ Produção |
+| **Landing Page** — Portfólio pessoal com animações scroll-driven e CMS próprio | React 19 · Vite · TypeScript · Supabase | ✅ [devmaker.vercel.app](https://devmaker.vercel.app) |
+| **Clean Windows** — App desktop para limpeza de disco e RAM com interface nativa | Electron · Node.js · PowerShell | ✅ GitHub |
+
+---
+
+## Hard Skills
+
+**Frontend**
+
+<div>
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alt="React Native" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alt="Next.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+  <img alt="Tailwind CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img alt="Electron" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
+  <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
+
+**Backend**
+
+<div>
+  <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Express" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
+</div>
+
+**Banco de Dados & Cloud**
+
+<div>
+  <img alt="Supabase" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg">
+  <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img alt="SQLite" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+  <img alt="Firebase" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+</div>
+
+**Ferramentas**
+
+<div>
+  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img alt="Vercel" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg">
+  <img alt="Vite" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
+  <img alt="Postman" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
+  <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+</div>
+
+---
+
+## Formação
+
+**Análise e Desenvolvimento de Sistemas** — Faculdade Unigranrio · Rio de Janeiro
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saraiva94&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraiva94&layout=compact&theme=dark&hide_border=true" height="150">
+</div>
