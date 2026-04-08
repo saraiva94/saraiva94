@@ -23,7 +23,6 @@ Trabalho com Supabase como backend completo — PostgreSQL, Realtime, Edge Funct
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/deeplink/compose?to=swami_gs@live.com)
 
 </div>
-<br>
 
 ## Formação
 
