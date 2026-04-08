@@ -13,6 +13,12 @@ Trabalho com Supabase como backend completo — PostgreSQL, Realtime, Edge Funct
 
 ---
 
+## Formação
+
+**Análise e Desenvolvimento de Sistemas** — Faculdade Unigranrio · Rio de Janeiro
+
+---
+
 ## Portfólio e Contato
 
 <div align="center">
@@ -47,11 +53,13 @@ Trabalho com Supabase como backend completo — PostgreSQL, Realtime, Edge Funct
   <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alt="React Native" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img alt="Next.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
   <img alt="Tailwind CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img alt="Electron" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
   <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Vite" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
 </div>
 
 <br>
@@ -60,6 +68,7 @@ Trabalho com Supabase como backend completo — PostgreSQL, Realtime, Edge Funct
 
 <div>
   <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img alt="Bun.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg">
   <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Express" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
 </div>
@@ -85,8 +94,8 @@ Trabalho com Supabase como backend completo — PostgreSQL, Realtime, Edge Funct
   <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img alt="Vercel" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg">
-  <img alt="Vite" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
   <img alt="Postman" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
+  <img alt="Ubuntu" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
   <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
@@ -98,16 +107,4 @@ Trabalho com Supabase como backend completo — PostgreSQL, Realtime, Edge Funct
   <img src="https://streak-stats.demolab.com?user=saraiva94&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
-<br>
-
-<div align="center">
-
-![saraiva94's Stats](https://github-readme-stats.vercel.app/api?username=saraiva94&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
-</div>
-
 ---
-
-## Formação
-
-**Análise e Desenvolvimento de Sistemas** — Faculdade Unigranrio · Rio de Janeiro
