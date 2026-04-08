@@ -30,39 +30,6 @@ Trabalho com Supabase como backend completo — PostgreSQL, Realtime, Edge Funct
 
 </div>
 
----
-
-## Projetos em destaque
-
-| Projeto | Stack | Status |
-|---------|-------|--------|
-| **Alarme Solar** — Alarme baseado no nascer do sol com pedômetro via acelerômetro | React Native · TypeScript · Supabase | ✅ Play Store |
-| **Live Streaming** — Plataforma com WebRTC, chat em tempo real e sistema de créditos | React · LiveKit · Supabase | ✅ Produção |
-| **Marketplace P2P** — Escrow financeiro, order book, tracking GPS e 3 gateways de pagamento | React · TypeScript · Supabase · Mapbox · Stripe | ✅ Produção |
-| **Gestão Audiovisual** — CMS dinâmico com i18n automático PT/EN/ES e sincronização em tempo real | React · TypeScript · Supabase | ✅ Produção |
-| **Landing Page** — Portfólio pessoal com animações scroll-driven e CMS próprio | React 19 · Vite · TypeScript · Supabase | ✅ [devmaker.vercel.app](https://devmaker.vercel.app) |
-| **Clean Windows** — App desktop para limpeza de disco e RAM com interface nativa | Electron · Node.js · PowerShell | ✅ GitHub |
-
----
-
-## Hard Skills
-
-**Frontend**
-
-<div>
-  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img alt="React Native" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img alt="Next.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-  <img alt="Tailwind CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img alt="Electron" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
-  <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Vite" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
-</div>
-
-<br>
 
 **Backend**
 
