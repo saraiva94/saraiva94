@@ -20,6 +20,7 @@ Trabalho com Supabase como backend completo — PostgreSQL, Realtime, Edge Funct
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swami-saraiva/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521969381944)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=swami_gs@live.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/deeplink/compose?to=swami_gs@live.com)
 
 </div>
 <br>
