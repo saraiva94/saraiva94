@@ -12,13 +12,6 @@ Nos últimos dois anos entreguei produtos comerciais publicados: app na Google P
 Trabalho com Supabase como backend completo — PostgreSQL, Realtime, Edge Functions e Storage — sem servidor Node dedicado.
 
 ---
-
-## Formação
-
-**Análise e Desenvolvimento de Sistemas** — Faculdade Unigranrio · Rio de Janeiro
-
----
-
 ## Portfólio e Contato
 
 <div align="center">
@@ -29,6 +22,13 @@ Trabalho com Supabase como backend completo — PostgreSQL, Realtime, Edge Funct
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=swami_gs@live.com)
 
 </div>
+---
+
+## Formação
+
+**Análise e Desenvolvimento de Sistemas** — Faculdade Unigranrio · Rio de Janeiro
+
+---
 
 
 **Backend**
