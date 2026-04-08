@@ -47,6 +47,18 @@ Trabalho com Supabase como backend completo — PostgreSQL, Realtime, Edge Funct
 
 ## Hard Skills
 
+**Edição**
+
+<div>
+  <img alt="Creative Cloud" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/creativesuite/creativesuite-original.svg">
+  <img alt="After Effects" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg">
+  <img alt="Premiere Pro" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg">
+  <img alt="Photoshop" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
+  <img alt="Illustrator" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
+</div>
+
+<br>
+
 **Frontend**
 
 <div>
@@ -56,10 +68,10 @@ Trabalho com Supabase como backend completo — PostgreSQL, Realtime, Edge Funct
   <img alt="React Native" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img alt="Next.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
   <img alt="Tailwind CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img alt="GSAP" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gsap/gsap-original.svg">
   <img alt="Electron" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
   <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Vite" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
 </div>
 
 <br>
@@ -71,19 +83,20 @@ Trabalho com Supabase como backend completo — PostgreSQL, Realtime, Edge Funct
   <img alt="Bun.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg">
   <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Express" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
+  <img alt="LiveKit" height="40" src="https://avatars.githubusercontent.com/u/72736994?s=40">
 </div>
 
 <br>
 
-**Banco de Dados & Cloud**
+**Cloud & DB**
 
 <div>
   <img alt="Supabase" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg">
   <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img alt="SQLite" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-  <img alt="Firebase" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img alt="Mapbox" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mapbox/mapbox-original.svg">
 </div>
 
 <br>
@@ -94,9 +107,11 @@ Trabalho com Supabase como backend completo — PostgreSQL, Realtime, Edge Funct
   <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img alt="Vercel" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg">
-  <img alt="Postman" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
   <img alt="Ubuntu" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
-  <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img alt="Postman" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
+  <img alt="Stripe" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stripe/stripe-original.svg">
+  <img alt="Zod" height="40" src="https://zod.dev/logo.svg">
+  <img alt="Vitest" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg">
 </div>
 
 ---
@@ -105,6 +120,12 @@ Trabalho com Supabase como backend completo — PostgreSQL, Realtime, Edge Funct
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=saraiva94&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saraiva94&theme=github_dark" alt="Contribuições" />
 </div>
 
 ---
