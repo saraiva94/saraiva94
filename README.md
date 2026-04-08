@@ -30,7 +30,22 @@ Trabalho com Supabase como backend completo — PostgreSQL, Realtime, Edge Funct
 **Análise e Desenvolvimento de Sistemas** — Faculdade Unigranrio · Rio de Janeiro
 
 ---
+**Frontend**
 
+<div>
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alt="React Native" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alt="Next.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+  <img alt="Tailwind CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img alt="Electron" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
+  <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Vite" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
+</div>
+
+<br>
 
 **Backend**
 
